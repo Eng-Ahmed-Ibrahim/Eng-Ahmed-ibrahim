@@ -8,8 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=58A6FF&style=flat" alt="profile views" />
-<img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&style=flat&color=58A6FF" alt="followers" />
+
 <img src="https://img.shields.io/badge/Cairo%2C%20Egypt-181717?style=flat&logo=googlemaps&logoColor=white" alt="location" />
 <img src="https://img.shields.io/badge/Backend%20Engineer-0A0A0A?style=flat&logo=laravel&logoColor=white" alt="role" />
 
