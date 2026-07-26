@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Ahmed%20Ebrahim&fontSize=48&fontAlignY=38&desc=Software%20%E2%80%A2%20Engineer&descSize=18&descAlignY=58&animation=fadeIn&fontColor=ffffff" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Ahmed%20Ebrahim&fontSize=48&fontAlignY=38&desc=Software Engineer&descSize=18&descAlignY=58&animation=fadeIn&fontColor=ffffff" alt="header" />
 
 <a href="https://github.com/YOUR-GITHUB-USERNAME">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+scalable+backend+systems+that+work.;Laravel+%E2%80%A2+React+%E2%80%A2+MySQL+%E2%80%A2+Redis+%E2%80%A2+WebSockets;POS%2C+ERP%2C+Real+Estate%2C+Real-time+chat+systems.;Open+to+Mid-level+Backend+%2F+Full-stack+roles." alt="Typing SVG" />
