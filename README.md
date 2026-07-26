@@ -98,22 +98,7 @@ My core stack is **Laravel** on the backend and **React / TypeScript** on the fr
 
 ---
 
-### 📊 GitHub at a glance
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</div>
-
----
 
 ### 📬 Reach me
 
