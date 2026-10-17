@@ -46,7 +46,7 @@ A full POS and inventory system built with **Laravel + React**.
 
 <div align="center">
 
-**[LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)**  ·  **[Email](mailto:your.email@example.com)**
+**[LinkedIn](https://www.linkedin.com/in/ahmed-ebrahim4/)**  ·  **[Email](mailto:ahmed.ibrahim.dev1@gmail.com)**
 
 </div>
 
