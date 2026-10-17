@@ -2,7 +2,7 @@
 
 <br/>
 
-I build backend-heavy web applications with a focus on clean architecture and database performance. On one project I cut API response times from **~10s to under 1s** using query optimization, indexing, selective column loading, and Redis caching.
+Full-Stack Software Engineer with 3+ years of experience building scalable REST APIs, ERP/CRM, and e-commerce systems with **Laravel, ASP.NET Core, and React**. I focus on performance: I've cut API response times by up to **85%** through Redis caching, SQL indexing, and eliminating N+1 queries.
 
 <br/>
 
@@ -10,33 +10,34 @@ I build backend-heavy web applications with a focus on clean architecture and da
 
 <br/>
 
-<img src="assets/stack.png" alt="Tech stack: PHP, Laravel, C#, ASP.NET Web API, Entity Framework, React, Angular, JavaScript, Bootstrap, SQL Server, Redis, Git" width="100%" />
+<img src="assets/stack.png" alt="Tech stack: PHP, Laravel, C#, ASP.NET Core, Entity Framework, REST APIs, React, Angular, TypeScript, JavaScript, Tailwind CSS, Bootstrap, MySQL, SQL Server, PostgreSQL, Redis, Git, GitHub, Docker, CI/CD" width="100%" />
 
 <br/>
 
-<img src="assets/featured-project.png" alt="Featured Project" width="100%" />
+<img src="assets/featured-project.png" alt="Featured Projects" width="100%" />
 
 ### POS & Inventory Management System
-A full POS and inventory system built with **Laravel + React**.
+`PHP` `Laravel` `React` `Bootstrap` `Redis` `MySQL` `PHPUnit`
 
-| | |
-|---|---|
-| **Inventory** | FIFO/LIFO batch tracking with accurate returns, daily/monthly snapshots via Artisan commands |
-| **Reliability** | Concurrency-safe transactions (`DB::transaction()` + `lockForUpdate()`), idempotency keys |
-| **Finance** | Wallet/balance management using a ledger + materialized balance pattern |
-| **Security** | Roles & permissions (Spatie), force-logout via Passport token revocation |
-| **Operations** | Kiosk order management with print retry logic, React admin dashboard |
-| **Architecture** | Service Layer, Repository, Strategy, Factory, Template Method |
+- Concurrency-safe POS engine using row-level locking (`lockForUpdate`) with FIFO/LIFO inventory valuation, batch tracking, and multi-unit conversion
+- Wallet/balance management using a ledger + materialized balance pattern with idempotency keys
+- Roles & permissions (Spatie) with force-logout via Passport token revocation
+- Automated monthly inventory snapshots for auditing, covered with unit tests
+- Architecture: Service Layer, Repository, Strategy, Factory, Template Method
 
-[View repository](#)
+### Infantry House ERP System
+`Laravel` `React` `MySQL` `Active Directory`
+
+- LAN-based ERP covering inventory, invoicing, HR/payroll, cashier operations, and role-based access control (RBAC)
+- Domain-based SSO authentication through Windows Server and Active Directory
 
 <br/>
 
 <img src="assets/currently.png" alt="Currently" width="100%" />
 
-- Going deeper into **C# / ASP.NET** and **SQL Server** (indexing, query tuning)
+- Going deeper into **C# / ASP.NET Core** and **SQL Server** (indexing, query tuning)
 - Learning **Java / Spring Boot** as a longer-term second backend stack
-- Improving my testing skills (unit tests, mocking, dependency injection)
+- Real-time features with **Laravel Reverb, Redis, and WebSockets**
 
 <br/>
 
@@ -46,7 +47,7 @@ A full POS and inventory system built with **Laravel + React**.
 
 <div align="center">
 
-**[LinkedIn](https://www.linkedin.com/in/ahmed-ebrahim4/)**  ·  **[Email](mailto:ahmed.ibrahim.dev1@gmail.com)**
+**[LinkedIn](https://www.linkedin.com/in/ahmed-ebrahim4/)**  ·  **[GitHub](https://github.com/Eng-Ahmed-Ibrahim)**  ·  **[Email](mailto:ahmed.ibrahim.dev1@gmail.com)**
 
 </div>
 
